@@ -6,7 +6,7 @@ This is the developer log where I put the initial issues for the project. Furthe
 
  1. Yellow highlights: change the mapped concept code and/or OMOP CDM table. I suggested a few codes from SNOMED-CT
  2. Suggested codes without yellow highlights – something to consider.  If component level of mapping is sufficient, RxNorm already provides many exact matches. If brand names are important, keep the current extension mapping.
- 3. I schemed through the Exact matches of RxNorm and spot check 30~40 matches. They all looked fine. If time permits, having someone with clinical background (maybe Jingfang) review 30~40 random cases just to be safe.
+ 3. I schemed through the Exact matches of RxNorm and spot check 30-40 matches. They all looked fine. If time permits, having someone with clinical background (maybe Jingfang) review 30~40 random cases just to be safe.
  
 ## Things to do
 
